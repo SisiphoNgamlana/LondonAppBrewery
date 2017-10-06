@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/SisiphoNgamlana/LondonAppBrewery.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/londonappbrewery/destini-android-SisiphoNgamlana.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Androind Projects/CameraTest" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Androind Projects" />
   </component>
 </application>
